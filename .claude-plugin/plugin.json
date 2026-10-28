@@ -1,0 +1,10 @@
+{
+  "name": "estimate-first",
+  "version": "1.0.0",
+  "description": "Before executing any task, Claude estimates the time, tokens and usage it will take, then asks you to approve or reject. / قبل تنفيذ أي مهمة، يقدّر كلود الوقت والتوكنز والاستهلاك ثم يطلب موافقتك.",
+  "author": {
+    "name": "Moath Alawadhi"
+  },
+  "license": "MIT",
+  "keywords": ["estimate", "tokens", "usage", "cost", "approval", "time"]
+}

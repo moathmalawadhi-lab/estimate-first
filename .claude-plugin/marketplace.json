@@ -1,0 +1,13 @@
+{
+  "name": "estimate-first",
+  "owner": {
+    "name": "Moath Alawadhi"
+  },
+  "plugins": [
+    {
+      "name": "estimate-first",
+      "source": "./",
+      "description": "Estimate time, tokens and usage before every task, then approve or reject."
+    }
+  ]
+}
